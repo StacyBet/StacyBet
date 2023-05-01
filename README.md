@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anastasia
+My name is Anastasia. I'm a data analyst.
 
 Мои проекты
 
