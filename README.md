@@ -6,7 +6,7 @@ My name is Anastasia. I'm a data analyst.
 
 | Название проекта | Используемые библиотеки |
 | --- | --- |
-| [Исследование рынка общепита Москвы для принятия решения по открытию нового заведения общепита](https://github.com/StacyBet/Portfolio/blob/main/Исследование%20рынка%20общепита%20Москвы/Moscow%20catering.ipynb) | Python, Pandas, Re, folium, Seaborn, Plotly, Кластеризация |
+| [Исследование рынка общепита Москвы для принятия решения по открытию нового заведения общепита](https://github.com/StacyBet/Portfolio/blob/main/Исследование%20рынка%20общепита%20Москвы/Moscow%20catering2.ipynb) | Python, Pandas, Re, folium, Seaborn, Plotly, Кластеризация |
 | [Исследование надежности заемщиков банка](https://github.com/StacyBet/Portfolio/blob/main/Исследование%20надежности%20заемщиков/reliability_%20borrowers%20(2).ipynb) | Python, Pandas, plotly |
 | [Анализ бизнес-показателей приложения](https://github.com/StacyBet/Portfolio/blob/main/Анализ%20бизнес-показателей/Analysis_business_indicators.ipynb) | Python, Pandas, Matplotlib, когортный анализ, юнит-экономика, продуктовые метрики, Seaborn |
 | [Мобильные приложения - выделение групп пользователей на основе их поведения](https://github.com/StacyBet/Portfolio/blob/main/Мобильные%20приложения/mobile%20application.ipynb) | A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных |
