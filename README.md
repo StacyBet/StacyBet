@@ -2,10 +2,7 @@
 
 My name is Anastasia. I'm a data analyst.
 
-#### Connect with me:
-Telegram [@Stacy_Bet](https://t.me/Stacy_Bet)
-
-Mail: miss.anastasija.betina@yandex.ru
+**Connect with me:**  Telegram [@Stacy_Bet](https://t.me/Stacy_Bet)  Mail: miss.anastasija.betina@yandex.ru
 
 Мои проекты
 
